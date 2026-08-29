@@ -69,9 +69,9 @@ uvicorn app.main:app --reload
 - [x] SQLAlchemy connected to database
 - [x] Alembic configured for migrations
 - [x] `Users` model created and migrated
-- [ ] `Devices` model
-- [ ] `Events` model
-- [ ] `Alerts` model
+- [x] `Devices` model
+- [x] `Events` model
+- [x] `Alerts` model
 - [ ] Authentication (JWT)
 - [ ] REST endpoints for all resources
 - [ ] Detection engine integration
